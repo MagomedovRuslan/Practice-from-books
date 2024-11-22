@@ -1,5 +1,5 @@
 # binary_search
-user_id = [id for id in range(1, 1001)]
+USER_ID = [id for id in range(1, 1001)]
 
 
 def binary_search(check_list: list, item: int | float) -> int:
