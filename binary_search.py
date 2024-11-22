@@ -21,4 +21,4 @@ def binary_search(check_list: list, item: int | float) -> int:
     return None
 
 
-print(binary_search(user_id, 499))
+print(binary_search(user_id, 49))
