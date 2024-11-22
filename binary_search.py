@@ -17,8 +17,6 @@ def binary_search(check_list: list, item: int | float) -> int:
             high = mid - 1
         else:
             low = mid + 1
-    
-    return None
 
 
 print(binary_search(user_id, 49))
