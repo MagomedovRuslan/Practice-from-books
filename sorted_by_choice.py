@@ -17,5 +17,6 @@ def sorted_by_choice(check_list: list, reversed: bool = False) -> list:
     return new_list
 
 
-NEW_SORTED_USER_ID = sorted_by_choice(USER_ID)
-print(NEW_SORTED_USER_ID)
+if __name__ == '__main__':
+    NEW_SORTED_USER_ID = sorted_by_choice(USER_ID)
+    print(NEW_SORTED_USER_ID)
