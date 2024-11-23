@@ -1,4 +1,5 @@
 # sorted by choice
+# O(n)
 USER_ID = [1220, 222, 883, 2, 64, 21, 43, 1, 45, 66, 8787, 42, 453]
 
 def sorted_by_choice(check_list: list, reversed: bool = False) -> list:
