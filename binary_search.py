@@ -1,5 +1,5 @@
 # binary_search
-# O(log n)
+# O(log2 n)
 USER_ID = [id for id in range(1, 1001)]
 
 
