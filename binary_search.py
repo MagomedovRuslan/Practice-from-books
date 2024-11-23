@@ -20,4 +20,5 @@ def binary_search(check_list: list, item: int | float) -> int:
             low = mid + 1
 
 
-print(binary_search(user_id, 49))
+INDEX_USER_49 = binary_search(USER_ID, 49)
+print(INDEX_USER_49)
